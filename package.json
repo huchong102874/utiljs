@@ -1,0 +1,12 @@
+{
+  "name": "tenoless",
+  "version": "1.0.0",
+  "description": "npm包开发测试",
+  "main": "dist/utils.js",
+  "keywords":["tenoless/util"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tenoless",
+  "license": "ISC"
+}
