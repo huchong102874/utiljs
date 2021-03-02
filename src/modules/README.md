@@ -1,5 +1,3 @@
-# hey-utils
-
 ## 判断类型
 
 ### isObject  
